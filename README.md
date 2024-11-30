@@ -82,7 +82,7 @@
 
 <div align="centr">
   <h4>Let's connect here:</h4>
-  <a href="https://www.linkedin.com/in/taskeen-haider-0386691b2" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/ali-abbas-67b55833b/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>

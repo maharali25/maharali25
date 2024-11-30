@@ -1,4 +1,4 @@
-### Hello, I'm Taskeen Haider 👋
+### Hello, I'm Ali Abbas 👋
 
 *`Web Developer Student`*
 <h3 align="left">Creative looking to constantly up my skills by building projects and endlessly learning about the fascinating software development world</h3>
